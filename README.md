@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/68115584/92496007-94788880-f1c5-11ea-8d50-23bb01142afd.png" height="350px" alt="" />
 </p>
+<p align="center">[Current meme winner: 16arqueensu]</p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/CISC.873-awesome-brightgreen.svg?style=flat-square">
