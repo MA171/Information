@@ -37,6 +37,12 @@ Study of the extraction of concepts from large high-dimensional datasets. Statis
 - [Required] PowerPoint slides, coding templates, and other online resources provided by the instructor.
 
 
+<h2 align="center"> Where to Ask a Question? :question: </h2> 
+  
+There is an `issues` tab right up there :point_up:. Cannot find it? Click <a href='https://github.com/CISC-CMPE-327/Assignment-Instructions/issues'>HERE</a>. To ask a question, follow two steps:
+- Frist, search for related issue using the `Filters` box. 
+- If no one asked before, create an issue with a title that summazie your whole question. Then fill in the body of your question. You can copy screenshot and parse into the text box as well. 
+
 
 <h2 align="center"> Mini-Exams & Assignments :hammer: </h2> 
 
