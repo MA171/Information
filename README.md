@@ -7,7 +7,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/CISC.873-awesome-brightgreen.svg?style=flat-square">
-<img src="http://hits.dwyl.io/CISC-873/Information.svg">
+<img src="https://views.whatilearened.today/views/github/cisc-873/information.svg">
 <img src="https://img.shields.io/github/issues/CISC-873/Information.svg?style=flat-square">
 <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square">
 <img src="https://img.shields.io/badge/badges-awesome-green.svg?style=flat-square&color=brightgreen">
