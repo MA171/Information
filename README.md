@@ -19,7 +19,7 @@
 <p align="center">[Please take the avaialbility survey on <a href="https://onq.queensu.ca/">Onq</a>]</p>
 <p align="center">
   ✨ TAs:  
-  <a href="mailto:weihan.ou@queensu.ca ">Weihan Ou</a> (<a href="https://github.com/WeihanO">WeihanO</a>)&nbsp;
+  <a href="mailto:weihan.ou@queensu.ca ">Weihan Ou</a> (git: <a href="https://github.com/WeihanO">WeihanO</a>)&nbsp;
   ✨ 
 </p>
 
