@@ -1,7 +1,7 @@
 <h1 align="center"> :fire: CISC873 Data Mining :fire: </h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/68115584/92496007-94788880-f1c5-11ea-8d50-23bb01142afd.png" height="250px" alt="" />
+  <img src="https://user-images.githubusercontent.com/68115584/92496007-94788880-f1c5-11ea-8d50-23bb01142afd.png" height="350px" alt="" />
 </p>
 
 <p align="center">
