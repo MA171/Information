@@ -50,7 +50,7 @@ There is an `issues` tab right up there :point_up:. Cannot find it? Click <a hre
   <img src="https://github.com/CISC-CMPE-327/Information/raw/master/images/dino.gif" height="200px" alt="" />
 </p>
 
-| Assignments (Option #1 100% total) | Due | Individual Project (Option #2 100% total)  | Due |
+| Assignments (Option #1 100% total) | Due Date | Individual Project (Option #2 100% total)  | Due Date |
 |-------------------------|-----|---------------------------------|-----|
 | Assignment #0           | TBD | Project Proposal                | TBD |
 | Assignment #1           | TBD | Phase 1 source code and results | TBD |
