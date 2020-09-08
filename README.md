@@ -44,7 +44,7 @@ Study of the extraction of concepts from large high-dimensional datasets. Statis
   <img src="https://github.com/CISC-CMPE-327/Information/raw/master/images/dino.gif" height="200px" alt="" />
 </p>
 
-| Assignments (Option #1) | Due | Individual Project (Option #2)  | Due |
+| Assignments (Option #1 100% total) | Due | Individual Project (Option #2 100% total)  | Due |
 |-------------------------|-----|---------------------------------|-----|
 | Assignment #0           | TBD | Project Proposal                | TBD |
 | Assignment #1           | TBD | Phase 1 source code and results | TBD |
