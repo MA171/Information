@@ -1,9 +1,9 @@
 <h1 align="center"> :fire: CISC873 Data Mining :fire: </h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/68115584/92496007-94788880-f1c5-11ea-8d50-23bb01142afd.png" height="350px" alt="" />
+  <img src="https://user-images.githubusercontent.com/47393558/92499255-2f378e00-f1eb-11ea-81c8-b579662fa2a9.jpg" height="350px" alt="" />
 </p>
-<p align="center">[Current meme winner: 16arqueensu - Checkout the <a href="https://github.com/CISC-873/Information/issues/2">competition</a>]</p>
+<p align="center">[Current meme winner: tindur-sigurdarson - Checkout the <a href="https://github.com/CISC-873/Information/issues/2">competition</a>]</p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/CISC.873-awesome-brightgreen.svg?style=flat-square">
