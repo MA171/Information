@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">Instructor: Dr. Steven Ding</p>
-<p align="center">Friday 10:00-11:15 11:45-13:00 EST Miner Party - Live Streaming</p>
+<p align="center">Friday 10:00-11:15 11:45-13:00 EST Miner Party - Live Streaming [Zoom link on  <a href="https://onq.queensu.ca/">Onq</a>]</p>
 <p align="center">[Please take the avaialbility survey on <a href="https://onq.queensu.ca/">Onq</a>]</p>
 <p align="center">
   ✨ TAs:  
