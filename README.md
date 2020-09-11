@@ -23,6 +23,12 @@
   ✨ 
 </p>
 
+<h3 align="center"> Course Intro Video </h3>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=3Mec2d25cPs"><img src="https://img.youtube.com/vi/3Mec2d25cPs/hqdefault.jpg"/></a>
+</p>
+
+
 Study of the extraction of concepts from large high-dimensional datasets. Statistical foundations; techniques such as supervised neural networks, unsupervised neural networks, decision trees, association rules, Bayesian classifiers, inductive logic programming, genetic algorithms, singular value decomposition, hierarchical clustering.
 
 ***Topics.*** Introduction to Data Mining. Overview of data mining, functions in data mining, the epistemology of data science, experimental protocol, performance assessment, ethical & privacy implications, human bias in data mining, introduction to Python for data science. 
