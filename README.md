@@ -58,16 +58,17 @@ There is an `issues` tab right up there :point_up:. Cannot find it? Click <a hre
   <img src="https://github.com/CISC-CMPE-327/Information/raw/master/images/dino.gif" height="200px" alt="" />
 </p>
 
+[Timelines are Tentative, please let me if you have any conflicts!]
 | Assignments (Option #1 100% total) | Due Date | Individual Project (Option #2 100% total)  | Due Date |
-|-------------------------|-----|---------------------------------|-----|
-| Assignment #0           | TBD | Project Proposal                | TBD |
-| Assignment #1           | TBD | Phase 1 source code and results | TBD |
-| Assignment #2           | TBD | Phase 2 source code and results | TBD |
-| Assignment #3           | TBD | Phase 3 source code and results | TBD |
-| Assignment #4           | TBD | Final report                    | TBD |
-| Assignment #5           | TBD |                                 | TBD |
-| Assignment #6           | TBD |                                 | TBD |
-| Assignment #7           | TBD |                                 | TBD |
+|-------------------------|------|---------------------------------|-----|
+| Assignment #0           | 10-02| Project Proposal                |10-02|
+| Assignment #1           | 10-09| Phase 1 source code and results |10-23|
+| Assignment #2           | 10-23| Phase 2 source code and results |11-13|
+| Assignment #3           | 11-6 | Phase 3 source code and results |11-27|
+| Assignment #4           | 11-13| Final report                    |12-18|
+| Assignment #5           | 11-27|                                 |     |
+| Assignment #6           | 12-11|                                 |     |
+| Assignment #7           | 12-18|                                 |     |
 
 <h2 align="center"> Course Materials. :books: </h2> 
 
