@@ -16,10 +16,7 @@
 
 <p align="center">Instructor: Dr. Steven Ding</p>
 <p align="center">Friday 10:00-11:15 11:45-13:00 EST Miner Party - Live Streaming [Zoom link on  <a href="https://onq.queensu.ca/">Onq</a>]</p>
-<p align="center" color="red">!!![URGENT: DEADLINE TO DROP - Wednesday Sept. 16 ]!!!</p>
-<p align="center" color="red">!!![We are way over capacity; and the school has ran out of resources for further supports. ]!!!</p>
-<p align="center" color="red">!!![ Priority will be given to Computing students ]!!!</p>
-<p align="center">[Please take the avaialbility survey on <a href="https://onq.queensu.ca/">Onq</a>]</p>
+<p align="center">✨ [Please take the option survey <a href="https://docs.google.com/forms/d/e/1FAIpQLSffnmeNGvrFgSY3-WfzR98qLnOZWJGXBCW2dY6LuKgVoly7yQ/viewform?usp=sf_link">HERE</a>]✨ </p>
 <p align="center">
   ✨ TAs:  
   <a href="mailto:weihan.ou@queensu.ca ">Weihan Ou</a> (git: <a href="https://github.com/WeihanO">WeihanO</a>)&nbsp;
