@@ -1,9 +1,9 @@
 <h1 align="center"> :fire: CISC873 Data Mining :fire: </h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/47393558/92499255-2f378e00-f1eb-11ea-81c8-b579662fa2a9.jpg" height="350px" alt="" />
+  <img src="https://user-images.githubusercontent.com/29045168/92747167-ef3eeb00-f351-11ea-9105-3122d15c48e7.png" height="350px" alt="" />
 </p>
-<p align="center">[Current meme winner: tindur-sigurdarson - Checkout the <a href="https://github.com/CISC-873/Information/issues/2">competition</a>]</p>
+<p align="center">[Current meme winner: Tyler Mainguy @tylermainguy - Checkout the <a href="https://github.com/CISC-873/Information/issues/2">competition</a>]</p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/CISC.873-awesome-brightgreen.svg?style=flat-square">
@@ -76,3 +76,10 @@ There is an `issues` tab right up there :point_up:. Cannot find it? Click <a hre
 ### Lecture Recordings & Notes 💪
 
 TBA 
+
+
+### How to Learn Data Mining
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/10928452/92982760-b98f2480-f46d-11ea-83d1-a64e217431a4.jpg"></>
+</p>
