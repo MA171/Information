@@ -82,5 +82,5 @@ TBA
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/10928452/92982760-b98f2480-f46d-11ea-83d1-a64e217431a4.jpg"></>
-credits: AmirHossein Sojoodi @amirsojoodi
+<p>credits: AmirHossein Sojoodi @amirsojoodi</p>
 </p>
