@@ -58,6 +58,8 @@ There is an `issues` tab right up there :point_up:. Cannot find it? Click <a hre
   <img src="https://github.com/CISC-CMPE-327/Information/raw/master/images/dino.gif" height="200px" alt="" />
 </p>
 
+[Project Meeting Sign-up](https://docs.google.com/spreadsheets/d/1lUlYqg23vrBO4edU0woH6-BWh6j-WAtHPUL_1efMWzQ/edit?usp=sharing)
+
 [Timelines are Tentative, please let me if you have any conflicts!]
 | Assignments (Option #1 100% total) | Due Date | Individual Project (Option #2 100% total)  | Due Date |
 |-------------------------|------|---------------------------------|-----|
