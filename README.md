@@ -60,7 +60,7 @@ There is an `issues` tab right up there :point_up:. Cannot find it? Click <a hre
 
 [Project Meeting Sign-up](https://docs.google.com/spreadsheets/d/1lUlYqg23vrBO4edU0woH6-BWh6j-WAtHPUL_1efMWzQ/edit?usp=sharing)
 
-(!!!Zoom Meeting link in the shared doc!!!)
+(!!!Zoom Meeting link in the above shared sheet!!!)
 
 [Timelines are Tentative, please let me if you have any conflicts!]
 | Assignments (Option #1 100% total) | Due Date | Individual Project (Option #2 100% total)  | Due Date |
