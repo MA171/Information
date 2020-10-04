@@ -66,7 +66,7 @@ There is an `issues` tab right up there :point_up:. Cannot find it? Click <a hre
 | Assignments (Option #1 100% total) | Due Date | Individual Project (Option #2 100% total)  | Due Date |
 |-------------------------|------|---------------------------------|-----|
 | [Assignment #0](https://www.kaggle.com/t/30be82c6b5a54b7383f27394947445f6)           | 10-05| Project Proposal                |10-02|
-| Assignment #1           | 10-12| Phase 1 source code and results |10-23|
+| Assignment #1           | 10-15| Phase 1 source code and results |10-23|
 | Assignment #2           | 10-23| Phase 2 source code and results |11-13|
 | Assignment #3           | 11-6 | Phase 3 source code and results |11-27|
 | Assignment #4           | 11-13| Final report                    |12-18|
