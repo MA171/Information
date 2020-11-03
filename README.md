@@ -1,8 +1,4 @@
 <h1 align="center"> :fire: CISC873 Data Mining :fire: </h1>
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/29045168/92747167-ef3eeb00-f351-11ea-9105-3122d15c48e7.png" height="350px" alt="" />
 </p>
@@ -97,6 +93,11 @@ There is an `issues` tab right up there :point_up:. Cannot find it? Click <a hre
 </p>
 
 ## Contributors ✨
+
+
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
