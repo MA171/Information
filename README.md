@@ -1,6 +1,6 @@
 <h1 align="center"> :fire: CISC873 Data Mining :fire: </h1>
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <p align="center">
@@ -107,6 +107,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://l1nna.com/"><img src="https://avatars3.githubusercontent.com/u/8474647?v=4" width="100px;" alt=""/><br /><sub><b>Steven Ding</b></sub></a><br /><a href="https://github.com/CISC-873/Information/commits?author=steven-hh-ding" title="Code">💻</a> <a href="https://github.com/CISC-873/Information/commits?author=steven-hh-ding" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/WeihanO"><img src="https://avatars1.githubusercontent.com/u/60517240?v=4" width="100px;" alt=""/><br /><sub><b>WeihanO</b></sub></a><br /><a href="https://github.com/CISC-873/Information/commits?author=WeihanO" title="Code">💻</a> <a href="https://github.com/CISC-873/Information/commits?author=WeihanO" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/lxdragoon"><img src="https://avatars3.githubusercontent.com/u/31936233?v=4" width="100px;" alt=""/><br /><sub><b>Li Tao Li</b></sub></a><br /><a href="https://github.com/CISC-873/Information/commits?author=lxdragoon" title="Code">💻</a> <a href="https://github.com/CISC-873/Information/commits?author=lxdragoon" title="Documentation">📖</a></td>
   </tr>
 </table>
 
