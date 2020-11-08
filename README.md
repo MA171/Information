@@ -83,6 +83,8 @@ There is an `issues` tab right up there :point_up:. Cannot find it? Click <a hre
 | Week #1 Introduction   | [Slides](W1%20Introduction.pdf)   | [L1-1](https://stream.queensu.ca/Watch/i7M9CcJo) [L1-2](https://stream.queensu.ca/Watch/Hn29Sgb3) |
 | Week #2 Regression     | [Slides](W2%20Regression.pdf)     | [L2-1](https://stream.queensu.ca/Watch/z5DAw8t4) [L2-2](https://stream.queensu.ca/Watch/Gp49Mdi8) |
 | Week #3 Classification | [Slides](W3%20Classification.pdf) | TBA               |
+| TBA | TAB  | TBA |
+| Week #9 | [Slides](W6-8%20Conv%20and%20Sequential.pdf)  | [L9](https://stream.queensu.ca/Watch/y2B6LfEj) |
 
 
 ### How to Learn Data Mining
