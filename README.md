@@ -85,7 +85,7 @@ There is an `issues` tab right up there :point_up:. Cannot find it? Click <a hre
 | Week #3 Classification | [Slides](W3%20Classification.pdf) | TBA               |
 | TBA | TAB  | TBA |
 | Week #9 | [Slides](W6-8%20Conv%20and%20Sequential.pdf)  | [L9](https://stream.queensu.ca/Watch/y2B6LfEj) |
-| Week #10 | [Slides]() | [L9](https://stream.queensu.ca/Watch/y2B6LfEj) |
+| Week #10 | [Slides](W9%20Sequential%20plus.pdf) | [L1-](https://stream.queensu.ca/Watch/g2A6Kmx3) |
 
 
 ### How to Learn Data Mining
