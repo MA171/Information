@@ -68,7 +68,7 @@ There is an `issues` tab right up there :point_up:. Cannot find it? Click <a hre
 | [Assignment #1](https://www.kaggle.com/t/4dcf0f26ef4f4076a528fd8a2412856b)           | 10-17| Phase 1 source code and results |10-23|
 | [Assignment #2](https://www.kaggle.com/t/7c1bf60bb0934914a8beb982ddfdb06a)           | 11-06 | Phase 2 source code and results |11-13|
 | [Assignment #3](https://www.kaggle.com/t/657c1d4a8ad74540b7f316192efb4646)           | 11-15 | Phase 3 source code and results |11-27|
-| Assignment #4           |  | Final report                    |12-18|
+| [Assignment #4](https://www.kaggle.com/t/bc7459ecdc0544b18f9827df1393e81a)           |  See Kaggle site | Final report                    |12-18|
 | Assignment #5           |  |                                 |     |
 | Assignment #6           |  |                                 |     |
 | Assignment #7           |  |                                 |     |
