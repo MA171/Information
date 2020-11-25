@@ -44,6 +44,16 @@
         "code",
         "doc"
       ]
+    },
+    {
+      "login": "SalehChoueib",
+      "name": "Sal Choueib",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/33268561?v=4",
+      "profile": "https://github.com/SalehChoueib",
+      "contributions": [
+        "code",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
