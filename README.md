@@ -13,6 +13,7 @@
 <img src="https://img.shields.io/github/license/Naereen/StrapDown.js.svg?style=flat-square&color=brightgreen">
 </p>
 
+<p align="center">Originally created by <a href="https://research.cs.queensu.ca/home/skill/index.html">Prof. David Skillicorn</a> in 2000</p>
 <p align="center">Instructor: Dr. Steven Ding</p>
 <p align="center">Friday 10:00-11:15 11:45-13:00 EST Miner Party - Live Streaming [Zoom link on  <a href="https://onq.queensu.ca/">Onq</a>]</p>
 <p align="center">✨ [JOIN our discord channel <a href="https://discord.gg/8dTmW8H">HERE</a>]✨ </p>
