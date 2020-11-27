@@ -98,7 +98,7 @@ There is an `issues` tab right up there :point_up:. Cannot find it? Click <a hre
 
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
@@ -113,6 +113,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/lxdragoon"><img src="https://avatars3.githubusercontent.com/u/31936233?v=4" width="100px;" alt=""/><br /><sub><b>Li Tao Li</b></sub></a><br /><a href="https://github.com/CISC-873/Information/commits?author=lxdragoon" title="Code">💻</a> <a href="https://github.com/CISC-873/Information/commits?author=lxdragoon" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/Gitsamshi"><img src="https://avatars2.githubusercontent.com/u/19702190?v=4" width="100px;" alt=""/><br /><sub><b>Gitsamshi</b></sub></a><br /><a href="https://github.com/CISC-873/Information/commits?author=Gitsamshi" title="Code">💻</a> <a href="https://github.com/CISC-873/Information/commits?author=Gitsamshi" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/SalehChoueib"><img src="https://avatars1.githubusercontent.com/u/33268561?v=4" width="100px;" alt=""/><br /><sub><b>Sal Choueib</b></sub></a><br /><a href="https://github.com/CISC-873/Information/commits?author=SalehChoueib" title="Code">💻</a> <a href="https://github.com/CISC-873/Information/commits?author=SalehChoueib" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/strixy16"><img src="https://avatars0.githubusercontent.com/u/25542096?v=4" width="100px;" alt=""/><br /><sub><b>strixy16</b></sub></a><br /><a href="https://github.com/CISC-873/Information/commits?author=strixy16" title="Code">💻</a> <a href="https://github.com/CISC-873/Information/commits?author=strixy16" title="Documentation">📖</a></td>
   </tr>
 </table>
 
