@@ -71,8 +71,6 @@ There is an `issues` tab right up there :point_up:. Cannot find it? Click <a hre
 | [Assignment #3](https://www.kaggle.com/t/657c1d4a8ad74540b7f316192efb4646)           | 11-15 | Phase 3 source code and results |11-27|
 | [Assignment #4](https://www.kaggle.com/t/bc7459ecdc0544b18f9827df1393e81a)           |  on Kaggle | Final report                    |12-18|
 | Assignment #5           |  |                                 |     |
-| Assignment #6           |  |                                 |     |
-| Assignment #7           |  |                                 |     |
 
 <h2 align="center"> Course Materials. :books: </h2> 
 
