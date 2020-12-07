@@ -86,7 +86,8 @@ There is an `issues` tab right up there :point_up:. Cannot find it? Click <a hre
 | Week #9 | [Slides](W6-8%20Conv%20and%20Sequential.pdf)  | [L9](https://stream.queensu.ca/Watch/y2B6LfEj) |
 | Week #10 | [Slides](W9%20Sequential%20plus.pdf) | [L10](https://stream.queensu.ca/Watch/g2A6Kmx3) |
 | Week #11 | [Slides](W9%20Sequential%20plus.pdf)  | [L11](https://stream.queensu.ca/Watch/An2p4Z8C) |
-
+| Week #12 | | [L12](https://stream.queensu.ca/Watch/Sc56DaHe) |
+| Week #13 | | [L13](https://stream.queensu.ca/Watch/Ec7i6Y5P) |
 
 ### How to Learn Data Mining
 
