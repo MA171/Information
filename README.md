@@ -65,11 +65,11 @@ There is an `issues` tab right up there :point_up:. Cannot find it? Click <a hre
 [Timelines are Tentative, please let me if you have any conflicts!]
 | Assignments (Option #1 100% total) | Due Date | Individual Project (Option #2 100% total)  | Due Date |
 |-------------------------|------|---------------------------------|-----|
-| [Assignment #0](https://www.kaggle.com/t/30be82c6b5a54b7383f27394947445f6)           | 10-07| Project Proposal                |10-02|
-| [Assignment #1](https://www.kaggle.com/t/4dcf0f26ef4f4076a528fd8a2412856b)           | 10-17| Phase 1 source code and results |10-23|
-| [Assignment #2](https://www.kaggle.com/t/7c1bf60bb0934914a8beb982ddfdb06a)           | 11-06 | Phase 2 source code and results |11-13|
-| [Assignment #3](https://www.kaggle.com/t/657c1d4a8ad74540b7f316192efb4646)           | 11-15 | Phase 3 source code and results |11-27|
-| [Assignment #4](https://www.kaggle.com/t/bc7459ecdc0544b18f9827df1393e81a)           |  on Kaggle | Final report                    |12-18|
+| [Assignment #0]()           | 10-07| Project Proposal                |10-02|
+| [Assignment #1]()           | 10-17| Phase 1 source code and results |10-23|
+| [Assignment #2]()           | 11-06 | Phase 2 source code and results |11-13|
+| [Assignment #3]()           | 11-15 | Phase 3 source code and results |11-27|
+| [Assignment #4]()           |  on Kaggle | Final report                    |12-18|
 | [Assignment #5](https://www.kaggle.com/t/baee1a0259bc4d9791d074ca5d92686e)           |  on Kaggle |                                 |     |
 
 <h2 align="center"> Course Materials. :books: </h2> 
